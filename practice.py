@@ -14,5 +14,4 @@ print("Subtract:", subtract)
 print("Multiply:", multiply)
 print("Divide:", divide)
 
-print("Hi Cherry-pick")
-print("This is a commit of feature/backend")
+print("Hi Cherry-pick 2nd")
