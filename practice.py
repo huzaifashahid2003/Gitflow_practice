@@ -14,4 +14,4 @@ print("Subtract:", subtract)
 print("Multiply:", multiply)
 print("Divide:", divide)
 
-print("Hi Cherry-pick 2nd")
+print("Hi Cherry-pick 2nd means 2")
